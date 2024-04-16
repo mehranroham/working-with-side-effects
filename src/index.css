@@ -184,6 +184,7 @@ header p {
   font-family: 'Raleway', sans-serif;
   font-size: 1rem;
   color: #5d0909;
+  cursor: pointer;
 }
 
 .modal::backdrop {
@@ -197,7 +198,7 @@ header p {
 }
 
 .modal {
-  min-width: 30rem;;
+  min-width: 30rem;
   padding: 0;
   z-index: 2;
   background: #d5c7bc;
